@@ -1,0 +1,39 @@
+h1 {
+  color: gray;
+}
+h2 {
+  color: gray;
+}
+h3 {
+  color: gray;
+  font-size: 18px;
+}
+
+h1,
+h2,
+h3 {
+  text-align: center;
+}
+.col-2 {
+  color: dimgray;
+  display: block;
+  margin: 0 auto;
+  padding: 10px 10px;
+  background-color: lightgrey;
+}
+body {
+  background-image: url("images/Newark.jpeg");
+  background-color: gray;
+  margin: 0 auto;
+  padding: 0;
+  background-size: 900px;
+}
+.form-control me-2 {
+  position: fixed;
+  margin: 0;
+  padding: 40px;
+  bottom: 0;
+}
+.btn {
+  background: #00a572;
+}
